@@ -1,0 +1,12 @@
+body {
+    font-family: "DejaVu Sans", Verdana, sans-serif;
+    margin: 10%;
+    margin-top: 250px;
+    border-top: medium red solid;
+    background: url(gamemacs_logo.png) center 20px no-repeat;
+}
+
+address {
+    border-top: inherit;
+    padding-top: 10px;
+}
