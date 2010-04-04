@@ -1,0 +1,56 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+          "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>The idea of Gamemacs</title>
+    <link rel="stylesheet" type="text/css" href="main.css" />
+  </head>
+  <body>
+    <div id="content">
+      <h1>The idea of Gamemacs</h1>
+      <p>
+        Here is most of the content of the first public message I sent about the project. It sums up pretty well what the project aims to do.
+      </p>
+      <p>
+        Until I switched to Linux I have made some games with Game Maker, a fine but windows only piece of software that is too commercialized nowadays for me to like it as it is now, and I (and some others as well I think) have been looking for a good replacement on linux for quite some time. As most good programmers I am extremely lazy and don't like to do repetitive work if I can prevent it, and as such have skipped things like py-game.
+      </p>
+      <p>
+        I have done a little bit of fiddling with clojure and as I see it now some gaming stuff is coming up for clojure as well, but I didn't feel like gaming is the perfect bet for clojure. Now I am programming for a small company in common lisp and doing that I feel like I need some open source project to keep in shape on common lisp on the side line. So I thought, let's make a game maker clone!
+      </p>
+      <p>
+        I am not going to make things from scratch, it won't be useful to do and besides, if there is nothing to build upon, we won't even get started. So I thought this might be a perfect use for climacs. It might even be a revival of the climacs project if you like. Gamemacs is just a working name (and a bit more, as I will explain later), I mean to contribute to the several sub-projects and with normal add-ons as much as possible, to keep everything as modular as possible.
+      </p>
+      <p>
+        To not keep things vague, and to have a good direction, this is a list of things I want to have for a nice game-editor (and in general to make of Climacs an emacs-killer instead of an emacs-clone), most of it taken from Game Maker:
+        <ul>
+          <li>Integration of something like Lispbuilder (most probably just Lispbuilder).
+            <ul>       
+              <li>It has SDL</li>
+              <li>It has OpenGL</li>
+              <li>It has an .exe-creator/binary compiler</li>
+          </ul></li>
+          <li>Integration of the .exe-creator/binary compiler in the editor itself</li>
+          <li>Publish versions of Climacs compiled that way to make further development easier
+            <ul>
+              <li>so for basic development of games you don't even need to install anything else than that compiled version of climacs</li>
+              <li>we can call this compiled package with extensions Gamemacs, and keep the source pure climacs, so it remains as modular as it can be</li>
+          </ul></li>
+          <li>I would like to have a generic graphical editor for lisp-code on top of the textual editing mode.
+            <ul>       
+              <li>and this to be extensible with cool graphical editors for example to create levels (I think I will need to make a mock-up of this idea to get it clear)</li>
+          </ul></li>
+          <li>Create libraries for game-development that are included by default and work nicely with the graphical interface so you will be able to make simple games with mostly point and click and harder games with a great emacs-like editor :)</li>
+        </ul>
+      </p>
+      <p>
+        I have all this quite detailed in my head, but after dumping it all here I want your input as well, so it will be great to work with. In the end my goal is to have fun creating games on linux and to be able to sketch and prototype and build games all in one place. (If you can develop everything for emacs in emacs without leaving it, why shouldn't you be able to create games without hassle?)
+      </p>
+      <p>
+        What do you think?
+      </p>
+      <address>
+        <a href="mailto:joop@kiefte.net">Joop Kiefte</a>
+      </address>
+    </div>
+  </body>
+</html>
