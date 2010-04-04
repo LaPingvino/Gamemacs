@@ -1,0 +1,6 @@
+[submodule "climacs"]
+	path = climacs
+	url = git://github.com/LaPingvino/Climacs.git
+[submodule "esa"]
+	path = esa
+	url = git://github.com/LaPingvino/ESA.git
