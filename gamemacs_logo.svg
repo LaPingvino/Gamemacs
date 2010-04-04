@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="621.14288"
+   height="264"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47pre4 r22446"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="89.929383"
+     inkscape:cy="-55.142853"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1274"
+     inkscape:window-height="741"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-69.428574,-213.21933)">
+    <path
+       sodipodi:type="arc"
+       style="fill:#fffc00;fill-opacity:1;stroke:#ff0000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path2816"
+       sodipodi:cx="201.42857"
+       sodipodi:cy="345.21933"
+       sodipodi:rx="130"
+       sodipodi:ry="130"
+       d="m 331.42857,345.21933 c 0,71.79702 -58.20298,130 -130,130 -71.79701,0 -129.999996,-58.20298 -129.999996,-130 0,-71.79702 58.202986,-130 129.999996,-130 36.36929,0 71.07556,15.23507 95.69296,42.00648 l -95.69296,87.99352 z"
+       sodipodi:start="0"
+       sodipodi:end="5.5396788" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       id="path3590"
+       sodipodi:cx="197.14285"
+       sodipodi:cy="255.21933"
+       sodipodi:rx="20"
+       sodipodi:ry="20"
+       d="m 217.14285,255.21933 c 0,11.04569 -8.9543,20 -20,20 -11.04569,0 -20,-8.95431 -20,-20 0,-11.0457 8.95431,-20 20,-20 11.0457,0 20,8.9543 20,20 z"
+       transform="translate(2,14)" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3592"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(-34.285714,-2.8571429)"><flowRegion
+         id="flowRegion3594"><rect
+           id="rect3596"
+           width="385.71429"
+           height="268.57144"
+           x="334.28571"
+           y="209.50504" /></flowRegion><flowPara
+         id="flowPara3598"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">The</flowPara><flowPara
+         id="flowPara3600"
+         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;text-anchor:middle;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">GAMEMACS</flowPara><flowPara
+         id="flowPara3602"
+         style="font-size:48px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:end;text-anchor:end;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans">project</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot3604"
+       style="font-size:40px;font-style:normal;font-weight:normal;fill:#000000;fill-opacity:1;stroke:none;font-family:Bitstream Vera Sans"
+       transform="translate(0,11.714286)"><flowRegion
+         id="flowRegion3606"><rect
+           id="rect3608"
+           width="371.42856"
+           height="62.857143"
+           x="328.57144"
+           y="403.79074" /></flowRegion><flowPara
+         id="flowPara3610"
+         style="font-size:36px;font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:DejaVu Serif;-inkscape-font-specification:DejaVu Serif Italic">Lisp for the masses</flowPara></flowRoot>    <path
+       style="fill:none;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 348.57143,407.79075 c 342.85714,0 340,0 340,0"
+       id="path3614" />
+    <path
+       sodipodi:type="arc"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       id="path3618"
+       sodipodi:cx="432.85715"
+       sodipodi:cy="-168.85715"
+       sodipodi:rx="18.571428"
+       sodipodi:ry="18.571428"
+       d="m 451.42858,-168.85715 a 18.571428,18.571428 0 1 1 -37.14286,0 18.571428,18.571428 0 1 1 37.14286,0 z"
+       transform="matrix(0.67307693,0,0,0.67307693,-87.060448,384.87317)" />
+  </g>
+</svg>
