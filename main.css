@@ -2,11 +2,22 @@ body {
     font-family: "DejaVu Sans", Verdana, sans-serif;
     margin: 10%;
     margin-top: 250px;
-    border-top: medium red solid;
-    background: url(gamemacs_logo.png) center 20px no-repeat;
+    background: url(gamemacs_logo.png) center 20px no-repeat fixed;
 }
 
 address {
     border-top: inherit;
     padding-top: 10px;
+}
+
+.subtitle {
+    margin-bottom: 2em;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+#content {
+    color: black;
+    background: white;
+    border-top: medium red solid;
 }
